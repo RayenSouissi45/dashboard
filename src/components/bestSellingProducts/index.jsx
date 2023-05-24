@@ -7,9 +7,10 @@ import product4 from "../../pictures/products/product4.png"
 
 
 
+
 function BestSellingProducts() {
   const ProductTable = [
-    { name: "mASQUE ", prix: "300", state: "active", picture : product1 },
+    { name: "Masque ", prix: "300", state: "active", picture : product1 },
     { name: "SVR SUN SECURE CREME SPF 50+", prix: "140", state: "active", picture : product2  },
     { name: "SVR SUN SECURE CREME SPF 50+", prix: "200", state: "active", picture : product3 },
     { name: "SVR SUN SECURE CREME SPF 50+", prix: "370", state: "active", picture : product4 }
